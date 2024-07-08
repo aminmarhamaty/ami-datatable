@@ -1,0 +1,142 @@
+/* add css module styles here (optional) */
+
+.test {
+    margin: 2em;
+    padding: 0.5em;
+    border: 2px solid #000;
+    font-size: 2em;
+    text-align: center;
+  }
+  .green {
+    width: 85%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+  }
+  
+  .green thead {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 8px 0 0 0;
+  }
+  
+  .green th,
+  .green td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .green tbody tr:nth-child(even) {
+    background-color: black;
+    color: white;
+  }
+  
+  .green tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  .green tbody tr:hover td {
+    background-color: #A6FF96;
+    color: #333;
+  }
+  
+  
+  .blue {
+    width: 85%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+  }
+  
+  .blue thead {
+    background-color: darkblue;
+    color: white;
+    border-radius: 8px 0 0 0;
+  }
+  
+  .blue th,
+  .blue td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .blue tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .blue tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  .blue tbody tr:hover td {
+    background-color: #cceeff;
+    color: #333;
+  }
+  
+  .orange {
+    width: 85%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+  }
+  
+  .orange thead {
+    background-color: #FF8F00;
+    color: white;
+    border-radius: 8px 0 0 0;
+  }
+  
+  .orange th,
+  .orange td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .orange tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .orange tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  .orange tbody tr:hover td {
+    background-color: #FFD36E;
+    color: #333;
+  }
+  
+  .red {
+    width: 85%;
+    border-collapse: separate;
+    font-family: Arial, sans-serif;
+    margin: 24px auto;
+  }
+  
+  .red thead {
+    background-color: red;
+    color: white;
+    border-radius: 8px 0 0 0;
+  }
+  
+  .red th,
+  .red td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .red tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .red tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+  .red tbody tr:hover td {
+    background-color: #FBC7F7;
+    color: #333;
+  }
